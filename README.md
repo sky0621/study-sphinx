@@ -1,1 +1,4 @@
 # study-sphinx
+
+make html
+

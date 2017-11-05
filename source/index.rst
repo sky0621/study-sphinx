@@ -10,7 +10,9 @@ Welcome to Book Review's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   expert_python
+   art_of_community
+   sample
 
 Indices and tables
 ==================
